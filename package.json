@@ -3,6 +3,10 @@
   "displayName": "yblow",
   "description": "yblow colorscheme for vscode",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pompos02/yblow.vscode.git"
+  },
   "engines": {
     "vscode": "^1.109.0"
   },
