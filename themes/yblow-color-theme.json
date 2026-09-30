@@ -2,7 +2,7 @@
     "name": "yblow",
     "colors": {
     // Foreground and Background colors
-    "foreground": "#f3efe6",
+    "foreground": "#d8c5a7",
     "editor.background": "#112e2a",
 
     // Syntax Colors
@@ -175,10 +175,10 @@
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "type": "#8CDE94",
-        "function": "#d8c5a7",
+        "function": "#c1d1e3",
         "function:declaration": "#c1d1e3",
         "function:definition": "#c1d1e3",
-        "method": "#d8c5a7",
+        "method": "#c1d1e3",
         "method:declaration": "#c1d1e3",
         "method:definition": "#c1d1e3"
         },
@@ -264,7 +264,7 @@
         {
             "scope": "entity.name, entity.name.function.call, entity.name.method, support.function, meta.function-call, meta.require, meta.parens, entity.name.scope-resolution",
             "settings": {
-                "foreground": "#d8c5a7"
+                "foreground": "#c1d1e3 "
             }
         },
         {
